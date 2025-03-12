@@ -2,6 +2,8 @@
 
 An intuitive and extensible **online shopping system** that allows users to browse products, manage a shopping cart, and complete the checkout process with flexible shipping options. The system is built with **clean architecture**, leveraging **OOP principles** and **design patterns** to ensure scalability and maintainability.
 
+This project was developed as part of a **university coursework**, demonstrating strong **software design principles**. A **UML diagram** is included to illustrate the system's architecture and relationships between components.
+
 ## Key Features
 
 ### Product Management
@@ -36,3 +38,6 @@ An intuitive and extensible **online shopping system** that allows users to brow
 - **Unit tests** for core functionalities:
     - Shopping cart operations
     - Product factory behavior
+
+### UML Diagram
+A **detailed UML diagram** is provided to visualize the system architecture, class relationships, and design patterns used.
